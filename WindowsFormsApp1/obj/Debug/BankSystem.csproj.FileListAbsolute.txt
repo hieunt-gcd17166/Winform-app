@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BankSystem.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BankSystem.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registration.resources
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyAccount.resources
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PayMent.resources
+C:\Users\Admin\Desktop\Programminh NEW\Assignment2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PaymentService.resources
